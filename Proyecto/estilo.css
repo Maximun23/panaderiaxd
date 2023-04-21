@@ -1,0 +1,15 @@
+.principal
+{
+    font-size: 20px;
+    font-size: Arial;
+    color: white;
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Pan-Simple.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
